@@ -1,0 +1,61 @@
+/* Isso é um comentário CSS */
+
+/* Faça com que todas as tags de título H1 fiquem
+com a cor azul e alinhadas a direita */
+h1 {
+    color: blue;
+    text-align: right;
+}
+/* Faça com que todo o corpo da página
+fique com fonte sem serifa e tamanho 14px */
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+/* Faça com que todos os elementos anotados com "destaque"
+fiquem com tamanho de fonte 20px, em negrito (font-weight: bold;)
+e com fundo vermelho */
+.destaque {
+    font-size: 20px;
+    font-weight: bold;
+}
+/* Faça com que o parágrafo do Super Nintendo (SNES) fique
+com a cor roxa */
+#snes {
+    color: purple;
+}
+/* Faça com que o parágrafo do Playstation fique
+com a cor cinza */
+#playstation {
+    color: gray;
+}
+/* Faça com que o parágrafo do Playstation 2 fique
+em negrito */
+#playstation2 {
+    font-weight: bold;
+}
+/* Faça com que elementos relacionados a recepção do
+jogo apareçam numa caixa tamanho 400px x 400px,
+com borda solida e com uma imagem de fundo do jogo
+(qualquer imagem de sua preferência) */
+#reception p{
+    width: 400px;
+    height: 400px;
+    border-style: solid;
+    background-image: url("final_fanatasy.jpg");
+    background-size: 400px 400px;
+}
+/* Faça com que elementos relacionados ao destaque de vendas
+apareçam em vermelho, itálico (font-style: italic;) e alinhados
+de forma justificada */
+.destaqueVendas {
+    color: red;
+    font-style: italic;
+    text-align: justify;
+}
+/* Faça com que todos os elementos de título H2 apareçam centralizados
+e na cor azul */
+h2 {
+    text-align: center;
+    color: blue;
+}

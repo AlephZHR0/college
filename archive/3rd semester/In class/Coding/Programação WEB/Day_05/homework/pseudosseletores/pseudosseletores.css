@@ -1,0 +1,32 @@
+/* Remova os indicadores de lista da lista
+(utilize list-style: none;) */
+li {
+    list-style: none;
+}
+/* Faça com que os links da página disponíveis
+e já visitados fiquem vermelhos */
+a:visited {
+    color: red;
+}
+/* Faça com que os links apontados pelo cursor
+do mouse ou selecionados pelo teclado fiquem
+com o fundo vermelho e a cor branca */
+a:hover {
+    background-color: red;
+    color: white;
+}
+/* Aumente o tamanho da fonte do 3º item
+da lista para 24px */
+li:nth-child(3) {
+    font-size: 24px;
+}
+/* Faça com que a lista de personagens tenha
+apenas os elementos ímpares com fundo cinza */
+section div:nth-child(odd) {
+    background-color: gray;
+}
+/* Faça com que o 4ª elemento da lista tenha
+fundo verde ao ser apontado com o mouse */
+section div:hover:nth-child(4) {
+    background-color: green;
+}

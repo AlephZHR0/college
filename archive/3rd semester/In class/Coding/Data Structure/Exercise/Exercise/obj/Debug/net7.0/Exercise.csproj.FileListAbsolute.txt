@@ -1,0 +1,15 @@
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\bin\Debug\net7.0\Exercise.exe
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\bin\Debug\net7.0\Exercise.deps.json
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\bin\Debug\net7.0\Exercise.runtimeconfig.json
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\bin\Debug\net7.0\Exercise.dll
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\bin\Debug\net7.0\Exercise.pdb
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\Exercise.csproj.AssemblyReference.cache
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\Exercise.AssemblyInfoInputs.cache
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\Exercise.AssemblyInfo.cs
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\Exercise.csproj.CoreCompileInputs.cache
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\Exercise.dll
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\refint\Exercise.dll
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\Exercise.pdb
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\Exercise.genruntimeconfig.cache
+G:\.shortcut-targets-by-id\1lOMf-Kp8UroJbDMtxyO7ak_I_KYCWiat\Faculdade\in class\coding\Data Structure\Exercise\Exercise\obj\Debug\net7.0\ref\Exercise.dll
