@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu</title>
+</head>
+<body>
+    <h1>Monkey game</h1>
+    
+    
+    <button id="play">Play</button>
+    <div id="listaDificuldades" style="display:none;">
+        <h2>Escolha a dificuldade:</h2>
+            <a href="game.html?rows=3&cols=3">Fácil</a>
+            <a href="game.html?rows=4&cols=4">Médio</a>
+            <a href="game.html?rows=5&cols=5">Difícil</a>
+            <a href="game.html?rows=5&cols=8">Monkey mode</a>
+            <button onclick="easy()">Fácil</button>
+            <button onclick="medium()">Médio</button>
+            <button onclick="hard()">Difícil</button>
+            <button onclick="monkey()">Monkey mode</button>
+    </div>
+    <br>
+    <div>
+        <button id="explanation">Explanation</button>
+    </div>
+    <div>
+        <button id="credits">Credits</button>
+    </div>
+    <script>
+        document.getElementById("play").addEventListener("click", function() {
+        var lista = document.getElementById("listaDificuldades");
+        if (lista.style.display === "none") {
+            lista.style.display = "block";
+        } else {
+            lista.style.display = "none";
+        }
+        });
+
+        startGame = function() {
+            window.location.href = "game.html";
+        }
+
+        showExplanation = function() {
+            window.location.href = "explanation.html";
+        }
+
+        showCredits = function() {
+            window.location.href = "credits.html";
+        }
+
+        easy = function() {
+            window.location.href = "game.html?rows=3&cols=3";
+        }
+
+        medium = function() {
+            window.location.href = "game.html?rows=4&cols=4";
+        }
+
+        hard = function() {
+            window.location.href = "game.html?rows=5&cols=5";
+        }
+
+        monkey = function() {
+            window.location.href = "game.html?rows=5&cols=8";
+        }
+    </script>
+</body>
+</html>

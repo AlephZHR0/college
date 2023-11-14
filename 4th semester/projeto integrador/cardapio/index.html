@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cardápio Interativo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Cardápio</h1>
+    <h2>Espetos</h2>
+    <div class="item">
+        <span class="espeto product-name">Carne</span>
+        <div class="quantity">
+            <button onclick="decrement('carneCount')">-</button>
+            <input type="number" id="carneCount" min="0" value="0">
+            <button onclick="increment('carneCount')">+</button>
+        </div>
+        <span>R$ 7,00</span>
+    </div>
+
+    <div class="item">
+        <span class="espeto product-name">Misto</span>
+        <div class="quantity">
+            <button onclick="decrement('mistoCount')">-</button>
+            <input type="number" id="mistoCount" min="0" value="0">
+            <button onclick="increment('mistoCount')">+</button>
+        </div>
+        <span>R$ 7,00</span>
+    </div>
+
+    <div class="item">
+        <span class="espeto product-name">Frango</span>
+        <div class="quantity">
+            <button onclick="decrement('frangoCount')">-</button>
+            <input type="number" id="frangoCount" min="0" value="0">
+            <button onclick="increment('frangoCount')">+</button>
+        </div>
+        <span>R$ 7,00</span>
+    </div>
+
+    <div class="item">
+        <span class="espeto product-name">Kafta</span>
+        <div class="quantity">
+            <button onclick="decrement('kaftaCount')">-</button>
+            <input type="number" id="kaftaCount" min="0" value="0">
+            <button onclick="increment('kaftaCount')">+</button>
+        </div>
+        <span>R$ 7,00</span>
+    </div>
+
+    <div class="item">
+        <span class="espeto product-name">Coração</span>
+        <div class="quantity">
+            <button onclick="decrement('coracaoCount')">-</button>
+            <input type="number" id="coracaoCount" min="0" value="0">
+            <button onclick="increment('coracaoCount')">+</button>
+        </div>
+        <span>R$ 7,00</span>
+    </div>
+
+    <div class="item">
+        <span class="espeto product-name">Linguiça</span>
+        <div class="quantity">
+            <button onclick="decrement('linguicaCount')">-</button>
+            <input type="number" id="linguicaCount" min="0" value="0">
+            <button onclick="increment('linguicaCount')">+</button>
+        </div>
+        <span>R$ 7,00</span>
+    </div>
+
+    <div class="item">
+        <span class="espeto product-name">Queijo</span>
+        <div class="quantity">
+            <button onclick="decrement('queijoCount')">-</button>
+            <input type="number" id="queijoCount" min="0" value="0">
+            <button onclick="increment('queijoCount')">+</button>
+        </div>
+        <span>R$ 7,00</span>
+    </div>
+
+    <!-- Lanches -->
+    <h2>Lanches</h2>
+    <div class="item">
+        <span class="product-name">Lanche no Pão (1 Espeto)</span>
+        <div class="quantity">
+            <button onclick="decrement('lanche1Count')">-</button>
+            <input type="number" id="lanche1Count" min="0" value="0">
+            <button onclick="increment('lanche1Count')">+</button>
+        </div>
+        <span>R$ 13,00</span>
+    </div>
+
+    <div class="item">
+        <span class="product-name">Lanche no Pão (2 Espetos)</span>
+        <div class="quantity">
+            <button onclick="decrement('lanche2Count')">-</button>
+            <input type="number" id="lanche2Count" min="0" value="0">
+            <button onclick="increment('lanche2Count')">+</button>
+        </div>
+        <span>R$ 20,00</span>
+    </div>
+
+    <div class="item">
+        <span class="product-name">Espeto no Prato</span>
+        <div class="quantity">
+            <button onclick="decrement('espetoPratoCount')">-</button>
+            <input type="number" id="espetoPratoCount" min="0" value="0">
+            <button onclick="increment('espetoPratoCount')">+</button>
+        </div>
+        <span>R$ 10,00</span>
+    </div>
+
+    <!-- Bebidas -->
+    <h2>Bebidas</h2>
+    <div class="item">
+        <span class="product-name">Coca-Cola</span>
+        <div class="quantity">
+            <button onclick="decrement('cocaColaCount')">-</button>
+            <input type="number" id="cocaColaCount" min="0" value="0">
+            <button onclick="increment('cocaColaCount')">+</button>
+        </div>
+        <span>R$ 6,00</span>
+    </div>
+
+    <!-- Adicionar mais bebidas aqui seguindo o mesmo padrão -->
+
+    <!-- Cervejas -->
+    <h2>Cervejas</h2>
+    <!-- Adicionar cervejas aqui seguindo o mesmo padrão -->
+
+
+
+    <script src="index.js"></script>
+</body>
+</html>
