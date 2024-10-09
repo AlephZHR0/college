@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Registro de Títulos e Documentos",
+        "author": "Gabriel Bonesi Ferreira; Sabrina Gomes Freitas; Cinthia Louzada Ferreira Giacomelli; et al.",
+        "description": "O Ofício Registral de Títulos e Documentos tem por finalidade assegurar a veracidade de atos e negócios jurídicos perante a lei. Por \"atos e negócios jurídicos\", pode-se dar como exemplos o registro de documentos de paternidade e de união estável.",
+        "kind": "book",
+        "edition": 1,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9786556900841/width/480",
+        "publisher": "Grupo A",
+        "publishDate": "202104",
+        "uuid": "061c16a4-6145-4a46-a102-d45809d08fe8"
+    },
+    {
+        "title": "Regulação de setor postal",
+        "author": "Eduardo Molan Gaban",
+        "description": "A obra, desenvolvida a partir da tese de doutorado do autor pela PUC-SP, questiona as bases do monopólio dos serviços postais exercido pela Empresa Brasileira de Correios e Telégrafos (ECT).",
+        "kind": "book",
+        "edition": 1,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9788502158764/width/480",
+        "publisher": "Grupo GEN",
+        "publishDate": "201204",
+        "uuid": "aec0b185-a0a6-43f9-b0fc-58382455fa7b"
+    },
+    {
+        "title": "Remuneração, Benefícios e Relações de Trabalho",
+        "author": "Idalberto Chiavenato",
+        "description": "As pessoas, que antes eram meros recursos organizacionais, agora são inseridas nas empresas como valores humanos, aptas a se encaixarem em um contexto complexo e mutável.",
+        "kind": "book",
+        "edition": 4,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9788563899200/width/480",
+        "publisher": "Grupo A",
+        "publishDate": "201101",
+        "uuid": "85f1021f-a9cd-4c80-9b57-51e7ef4b19d3"
+    },
+    {
+        "title": "Avaliação psicológica no contexto forense",
+        "author": "Claudio S. Hutz; Denise R. Bandeira; Clarissa M. Trentini; et al.",
+        "description": "Técnicas e métodos de avaliação na área forense são o tema deste novo livro da Coleção Avaliação Psicológica. Escrito por reconhecidos pesquisadores da psicologia, com contribuições da área do direito.",
+        "kind": "book",
+        "edition": 1,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9788582715956/width/480",
+        "publisher": "Grupo A",
+        "publishDate": "202001",
+        "uuid": "42ca9282-ca14-41c5-8187-58dad5400891"
+    },
+    {
+        "title": "Blindagem Patrimonial e Planejamento Jurídico",
+        "author": "Gladston Mamede; Eduarda Cotta Mamede",
+        "description": "Criou-se um mito perigoso no Brasil: haveria uma maneira de blindar o patrimônio de empresários para que não fosse alcançado pelo Fisco, pela Justiça do Trabalho e por outros credores.",
+        "kind": "book",
+        "edition": 4,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9788553600250/width/480",
+        "publisher": "Grupo GEN",
+        "publishDate": "201802",
+        "uuid": "6f1dc8b1-7330-4452-b850-de86b047279f"
+    },
+    {
+        "title": "Introdução ao cálculo para administração, economia e contabilidade",
+        "author": "John W. Creswell",
+        "description": "Esta obra é uma introdução ao cálculo voltada para estudantes de administração, economia e contabilidade, fornecendo uma base sólida para o desenvolvimento de habilidades matemáticas.",
+        "kind": "book",
+        "edition": 2,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9788565848411/width/480",
+        "publisher": "Grupo A",
+        "publishDate": "201301",
+        "uuid": "df8dd866-0b16-4ba0-90c7-8d46d2afe34a"
+    },
+    {
+        "title": "Introdução ao Desenvolvimento de Games",
+        "author": "Robert K. Yin",
+        "description": "Este livro é uma introdução abrangente ao desenvolvimento de games, cobrindo as etapas de design, programação e testes de jogos para diferentes plataformas.",
+        "kind": "book",
+        "edition": 1,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9788584290833/width/480",
+        "publisher": "Grupo A",
+        "publishDate": "201601",
+        "uuid": "37120108-f659-402a-b753-80cf9640f68e"
+    },
+    {
+        "title": "Curso de direito constitucional",
+        "author": "Manoel Jorge e Silva Neto",
+        "description": "Este curso aprofunda a doutrina constitucional, baseando-se nas decisões do Supremo Tribunal Federal e dos demais tribunais superiores.",
+        "kind": "book",
+        "edition": 8,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9788502198029/width/480",
+        "publisher": "Grupo GEN",
+        "publishDate": "201304",
+        "uuid": "a45a1603-3a4e-4bc7-a9a4-4bdac057cbe1"
+    },
+    {
+        "title": "Teoria do Estado: do Estado de Direito ao Estado Democrático de Direito",
+        "author": "Celso Antônio Pacheco Fiorillo",
+        "description": "Este livro explora a evolução da teoria do Estado, desde o conceito de Estado de Direito até o Estado Democrático de Direito, com foco na realidade brasileira.",
+        "kind": "book",
+        "edition": 3,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9788502174498/width/480",
+        "publisher": "Grupo GEN",
+        "publishDate": "201507",
+        "uuid": "566da57b-7620-48e8-9d5e-d7813b34aac4"
+    },
+    {
+        "title": "Controle Judicial de Políticas Públicas",
+        "author": "Sidney Pessoa Madruga da Silva",
+        "description": "Este livro aborda o papel do controle judicial na implementação de políticas públicas, com base em estudos comparativos entre Brasil e Europa.",
+        "kind": "book",
+        "edition": 4,
+        "coverImageUrl": "https://covers.vitalbook.com/vbid/9786555598308/width/480",
+        "publisher": "Grupo GEN",
+        "publishDate": "202105",
+        "uuid": "2874128d-47ac-440f-a126-077869e5cad4"
+    }
+]
